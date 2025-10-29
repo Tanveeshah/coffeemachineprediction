@@ -1,4 +1,5 @@
 # ☕ Coffee Machine Failure Prediction
+![Coffee Machine Prediction ](cp.png)
 
 This project predicts whether a coffee machine will *fail or need maintenance in the next 7 days* using parameters such as:
 - Cup count per day  
